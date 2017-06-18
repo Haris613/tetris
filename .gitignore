@@ -1,0 +1,7 @@
+tetris
+*.o
+
+#my local ignores 
+.idea
+CMakeLists.txt
+cmake-build-debug
